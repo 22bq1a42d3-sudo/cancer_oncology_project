@@ -1,0 +1,21 @@
+CANCER_CODE,CANCER_NAME,CANCER_GROUP,ICD10_CODE,SPECIALTY,STATUS,UPDATED_AT
+CA001,Breast Cancer,Solid Tumor,ICD10:C50,Oncology,ACTIVE,2026-01-01 08:00:00
+CA002,Lung Cancer,Solid Tumor,ICD10:C34,Oncology,ACTIVE,2026-01-01 08:01:00
+CA003,Colorectal Cancer,Solid Tumor,ICD10:C18,Oncology,ACTIVE,2026-01-01 08:02:00
+CA004,Prostate Cancer,Solid Tumor,ICD10:C61,Oncology,ACTIVE,2026-01-01 08:03:00
+CA005,Cervical Cancer,Solid Tumor,ICD10:C53,Oncology,ACTIVE,2026-01-01 08:04:00
+CA006,Leukemia,Hematologic,ICD10:C91,Oncology,ACTIVE,2026-01-01 08:05:00
+CA007,Lymphoma,Hematologic,ICD10:C85,Oncology,ACTIVE,2026-01-01 08:06:00
+CA008,Ovarian Cancer,Solid Tumor,ICD10:C56,Oncology,ACTIVE,2026-01-01 08:07:00
+CA009,Pancreatic Cancer,Solid Tumor,ICD10:C25,Oncology,ACTIVE,2026-01-01 08:08:00
+CA010,Head & Neck Cancer,Solid Tumor,ICD10:C76,Oncology,ACTIVE,2026-01-01 08:09:00
+CA011,Liver Cancer,Solid Tumor,ICD10:C22,Oncology,ACTIVE,2026-01-01 08:10:00
+CA012,Kidney Cancer,Solid Tumor,ICD10:C64,Oncology,ACTIVE,2026-01-01 08:11:00
+CA013,Stomach Cancer,Solid Tumor,ICD10:C16,Oncology,ACTIVE,2026-01-01 08:12:00
+CA014,Brain Tumor,Solid Tumor,ICD10:C71,Oncology,ACTIVE,2026-01-01 08:13:00
+CA015,Melanoma,Solid Tumor,ICD10:C43,Oncology,ACTIVE,2026-01-01 08:14:00
+CA016,Thyroid Cancer,Solid Tumor,ICD10:C73,Oncology,ACTIVE,2026-01-01 08:15:00
+CA017,Bladder Cancer,Solid Tumor,ICD10:C67,Oncology,ACTIVE,2026-01-01 08:16:00
+CA018,Esophageal Cancer,Solid Tumor,ICD10:C15,Oncology,ACTIVE,2026-01-01 08:17:00
+CA019,Multiple Myeloma,Hematologic,ICD10:C90,Oncology,ACTIVE,2026-01-01 08:18:00
+CA020,Sarcoma,Solid Tumor,ICD10:C49,Oncology,ACTIVE,2026-01-01 08:19:00
